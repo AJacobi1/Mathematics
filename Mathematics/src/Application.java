@@ -5,13 +5,13 @@ public class Application {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int a, b, c;		//declare integers a, b, c
+		int firstNumber, secondNumber, sumNumbers;		//declare integers a, b, c
 		System.out.println("Enter two numbers:");
 		Scanner in = new Scanner(System.in);
-		a = in.nextInt();		//input value for 'a'
-		b = in.nextInt();		//input value for 'b'
-		c = a + b;		//sum for value 'c'
-		System.out.println("Sum equals = " + c);
+		firstNumber = in.nextInt();		//input value for 'firstNumber'
+		secondNumber = in.nextInt();		//input value for 'secondNumber'
+		sumNumbers = firstNumber + secondNumber;		//sum for value 'sumNumbers'
+		System.out.println("Sum equals = " +sumNumbers);
 	}
 
 }
