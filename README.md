@@ -1,5 +1,5 @@
 # Mathematics
-Mathematics program 1.0 08/08/2016
+Mathematics program 1.0, 08/08/2016
 
 General Usage
 -------------
